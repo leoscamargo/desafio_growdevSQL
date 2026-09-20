@@ -13,7 +13,6 @@ Conjunto de consultas SQL desenvolvidas sobre o dataset público de e-commerce d
 
 ## Estrutura do projeto
 
-```
 growdev/
 ├── Dataset/                                # CSVs do dataset Olist
 │   ├── olist_customers_dataset.csv
@@ -36,7 +35,6 @@ growdev/
 ├── bloco_H.sql   # Functions (sp_relatorio_vendedor, sp_relatorio_categoria)
 ├── bloco_I.sql   # Window functions (RANK, LAG, acumulados, participação %)
 └── README.md
-```
 
 ## Como rodar o projeto localmente
 
